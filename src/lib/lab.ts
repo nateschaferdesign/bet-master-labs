@@ -3,6 +3,7 @@ export const LAB = {
   founderName: "Nate Schafer",
   founderTitle: "Founder & CEO",
   portrait: "/founder.png",
+  github: "https://github.com/nateschaferdesign/bet-master-labs",
   stance:
     "The desk is a verification layer for public betting claims. Records stay free. Rank stays unbuyable.",
   supportNote:

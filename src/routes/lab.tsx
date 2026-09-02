@@ -55,6 +55,14 @@ function LabPage() {
           >
             Send a correction
           </Link>
+          <a
+            href={LAB.github}
+            target="_blank"
+            rel="noreferrer"
+            className="inline-flex h-11 items-center rounded-[var(--radius-sm)] border border-border px-4 text-sm"
+          >
+            Open the project
+          </a>
         </div>
       </section>
     </div>
